@@ -15,6 +15,6 @@ This repository contains an AcademicPages-based personal academic website for Yi
 
 ## GitHub Pages
 
-This site is configured for `https://YZhang239.github.io` and the repository name `YZhang239.github.io`.
+This site is configured for `https://Tano-Y.github.io` and the repository name `Tano-Y.github.io`.
 
 After pushing to GitHub, enable GitHub Pages for the `main` branch if GitHub does not do it automatically.
