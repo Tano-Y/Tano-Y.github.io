@@ -4,8 +4,9 @@ collection: publications
 category: conferences
 permalink: /publication/2026-01-01-c3-llm-uncertainty
 excerpt: "A sampling-free uncertainty quantification method for LLMs that estimates response-level uncertainty through contrastive token-distribution shifts."
-date: 2026-01-01
+date: 2025-01-01
 venue: "PAKDD 2026"
+paperurl: "/files/paper-832.pdf"
 citation: "Yifan Zhang, Yuzhe Ou, Kangshuo Li, and Feng Chen. Conditional Contrastive Confidence-Based Uncertainty Quantification for LLMs. Accepted at PAKDD 2026."
 ---
 

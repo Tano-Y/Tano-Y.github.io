@@ -13,13 +13,12 @@ I am broadly flexible in research direction and committed to moving projects eff
 
 News
 ======
-* 2026: Our paper on contrastive confidence-based uncertainty quantification for LLMs was accepted at PAKDD 2026.
-* 2026: Our co-first-author work on parameter-efficient fine-tuning and uncertainty-aware hallucination detection is under review at TMLR.
+* 2025: A paper is accepted by PAKDD.
 * Aug. 2024: I started my Ph.D. study in Computer Science at UT Dallas.
 
 Research
 ======
-My current research interests include:
+The research areas I worked on:
 
 * Large language model uncertainty quantification
 * Hallucination detection
