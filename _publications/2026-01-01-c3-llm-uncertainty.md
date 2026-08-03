@@ -7,7 +7,8 @@ excerpt: "A sampling-free uncertainty quantification method for LLMs that estima
 date: 2025-01-01
 venue: "PAKDD 2026"
 paperurl: "/files/paper-832.pdf"
-citation: "Yifan Zhang, Yuzhe Ou, Kangshuo Li, and Feng Chen. Conditional Contrastive Confidence-Based Uncertainty Quantification for LLMs. Accepted at PAKDD 2026."
+citation: >-
+  <strong><em>Yifan Zhang</em></strong>, Yuzhe Ou, Kangshuo Li, and Feng Chen. Conditional Contrastive Confidence-Based Uncertainty Quantification for LLMs. Accepted at PAKDD 2026.
 ---
 
 This work proposes C3, a sampling-free uncertainty quantification method for large language models that estimates response-level uncertainty through contrastive token-distribution shifts under learned system-instruction perturbations.
