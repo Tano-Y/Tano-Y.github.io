@@ -13,6 +13,7 @@ I am broadly flexible in research direction and committed to moving projects eff
 
 News
 ======
+* July 2026: A paper is accepted by TMLR.
 * 2025: A paper is accepted by PAKDD.
 * Aug. 2024: I started my Ph.D. study in Computer Science at UT Dallas.
 
