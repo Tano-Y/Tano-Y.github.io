@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science at the University of Georgia, advised by [Prof. Yu Wang](https://computing.uga.edu/directory/people/yu-wang). I joined UGA in 2026. My research focuses on rigorous empirical evaluation, uncertainty quantification for large language models, hallucination detection, and AI safety.
+I am a Ph.D. student in Computer Science at the University of Georgia, advised by Prof. Yu Wang. I joined UGA in 2026.
 
-I am broadly flexible in research direction and committed to moving projects efficiently from idea development to paper submission.
+My research focuses on **real-time agents in competitive environments**, **reasoning**, and **self-distillation**. I am particularly interested in translating deliberative reasoning into fast, adaptive behavior and using self-distillation to improve agent capabilities.
 
 News
 ======
@@ -21,13 +21,11 @@ News
 
 Research
 ======
-The research areas I worked on:
+My current research interests include:
 
-* Large language model uncertainty quantification
-* Hallucination detection
-* AI safety and empirical evaluation
-* Parameter-efficient fine-tuning
-* Federated learning
+* **Real-time agents in competitive environments:** Building agents that make fast, adaptive decisions while interacting with opponents under time constraints.
+* **Reasoning:** Studying planning and decision-making, with an emphasis on the trade-off between deliberation and action latency.
+* **Self-distillation:** Learning from a model's own reasoning and experience to develop more capable and efficient agents.
 
 Education
 ======
