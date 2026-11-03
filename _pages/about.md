@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. student in Computer Science at the University of Georgia, advised by Prof. Yu Wang. I joined UGA in 2026.
 
-My research focuses on **real-time agents in competitive environments**, **reasoning**, and **self-distillation**. I am particularly interested in translating deliberative reasoning into fast, adaptive behavior and using self-distillation to improve agent capabilities.
+My research focuses on real-time agents in competitive environments. I am particularly interested in problems where reasoning and quick action are tightly coupled, as is common in the real world and complex games.
 
 News
 ======
@@ -23,9 +23,9 @@ Research
 ======
 My current research interests include:
 
-* **Real-time agents in competitive environments:** Building agents that make fast, adaptive decisions while interacting with opponents under time constraints.
-* **Reasoning:** Studying planning and decision-making, with an emphasis on the trade-off between deliberation and action latency.
-* **Self-distillation:** Learning from a model's own reasoning and experience to develop more capable and efficient agents.
+* Real-time agents in competitive environments: Building agents that make fast, adaptive decisions while interacting with opponents under time constraints.
+* Reasoning: Studying planning and decision-making, with an emphasis on the trade-off between deliberation and action latency.
+* Self-distillation: Learning from a model's own reasoning and experience to develop more capable and efficient agents.
 
 Education
 ======
