@@ -36,6 +36,10 @@
       {% endif %}
     </h2>
 
+    {% if post.collection == 'publications' and post.author_role %}
+      <p class="archive__item-author-role"><strong>{{ post.author_role }}</strong></p>
+    {% endif %}
+
     {% if post.collection == 'publications' and post.authors %}
       <p class="archive__item-authors">
         {{ post.authors }}

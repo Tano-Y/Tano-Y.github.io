@@ -7,6 +7,7 @@ excerpt: "A controlled empirical study of how parameter-efficient fine-tuning re
 date: 2026-07-01
 venue: "Transactions on Machine Learning Research (TMLR)"
 publication_status: "Accepted by"
+author_role: "Co-first author"
 authors: >-
   Xu Hu<sup>*</sup>,
   <strong><em>Yifan Zhang</em></strong><sup>*</sup>,
